@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    color: azure;
+}
+a:hover{
+    color: rgba(240, 255, 255, 0.486);
+}
+.m{
+    margin-top: 5%;
+}
